@@ -18,3 +18,10 @@ public class Hoge {
 }
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [] Introduce myself to the world
